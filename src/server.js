@@ -38,7 +38,7 @@ server.use(genericErrorHandler);
 
 // ******************** END ERROR MIDDLEWARES **********************
 
-const port = 5000;
+const port = 3001;
 
 console.table(listEndpoints(server));
 
